@@ -1,4 +1,4 @@
-package lk.ijse.dep13.auth;
+package rv.self.vidu.auth;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

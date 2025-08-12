@@ -1,12 +1,10 @@
-package lk.ijse.dep13.auth.api;
+package rv.self.vidu.auth.api;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpSession;
-import lk.ijse.dep13.auth.to.User;
+import rv.self.vidu.auth.to.User;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.server.ResponseStatusException;
 
 import java.sql.*;

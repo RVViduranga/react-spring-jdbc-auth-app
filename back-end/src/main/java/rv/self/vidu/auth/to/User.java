@@ -1,4 +1,4 @@
-package lk.ijse.dep13.auth.to;
+package rv.self.vidu.auth.to;
 
 public record User(String username, String password) {
 }
